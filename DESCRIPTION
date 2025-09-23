@@ -2,7 +2,7 @@ Package: DiCE
 Title: DiCE: Differential Centrality-Ensemble Analysis Based on Gene Expression Profiles and Protein-Protein Interaction Network
 Version: 1.0.0
 Authors@R: 
-    person("Elnaz", "Pashaei", , "epashaei@iu.edu", role = c("aut", "cre"),
+    person("Elnaz", "Pashaei", , "elnaz.pashaiee@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "https://orcid.org/0000-0001-9391-9785"))
 Description: Our package, DiffCentEn, is designed to identify and prioritize disease-related genes through a multi-phase approach involving differential expression analysis, information gain filtering, PPI network analysis, and ensemble ranking.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
