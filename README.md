@@ -12,8 +12,8 @@ If you use this package in your research, please cite:
 Pashaei, E. (2025). *DiCE: Differential Centrality-Ensemble Analysis Based on Gene Expression Profiles and Protein–Protein Interaction Network*. Nucleic Acids Research. https://doi.org/10.1093/nar/gkaf609
 
 ## License
-
 This project is licensed under the MIT License – see the LICENSE file for details.
+
 This R package provides a comprehensive framework for identifying and prioritizing disease-related genes based on gene expression profiles and protein-protein interaction (PPI) networks.
 
 ## Function Overview
